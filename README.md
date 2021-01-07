@@ -1,4 +1,4 @@
-This project was made based on the React classes from the Alura teaching platform
+This project was made based on the React classes from the Alura teaching platform. 
 Hope you enjoy it!
 
 ## Available Scripts
