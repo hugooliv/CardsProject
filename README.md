@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made based on the React classes from the Alura teaching platform
+Hope you enjoy it!
 
 ## Available Scripts
 
